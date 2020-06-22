@@ -1,6 +1,6 @@
 <h2 style="text-align:center">nguyên do truyền nhiễm và nguyên do gây ra sùi mào gà Ở miệng</h2>
 
-<p style="text-align:justify">nhân tố <strong><a href="http://phongkhamthaiha.com/benh-sui-mao-ga-o-mieng-nguyen-nhan-trieu-chung-102255.html">sùi mào gà ở miệng</a></strong> là do vi-rút HPV gây ra. Có hơn 100 chủng HPV tất cả tuy vậy chủng HPV gây bệnh mồng gà chỉ bao gồm một số loại như HPV6 và HPV11. Chúng xâm nhập vào vùng miệng thông qua rất nhiều con đường:</p>
+<p style="text-align:justify">nhân tố <strong>sùi mào gà ở miệng</strong> là do vi-rút HPV gây ra. Có hơn 100 chủng HPV tất cả tuy vậy chủng HPV gây bệnh mồng gà chỉ bao gồm một số loại như HPV6 và HPV11. Chúng xâm nhập vào vùng miệng thông qua rất nhiều con đường:</p>
 
 <p style="text-align:justify"><img alt="" src="http://phongkhamthaiha.com/media/images/benh-sui-mao-ga-o-mieng.png" style="height:250px; width:400px" /></p>
 
@@ -51,4 +51,4 @@
 	<li>người mắc bệnh khi cảm nhận xuất hiện các biểu hiện bệnh mồng gà ở đường miệng cần phải đến ngay cơ sở y tế chuyên khoa để được có cảm giác và chữa trị, hạn chế tùy tiện mua thuốc kháng sinh về điều trị tại nhà có khả năng làm cho chứng bệnh diễn biến phức tạp hơn.</li>
 </ul>
 
-<p style="text-align:justify">Trên đây là những chia sẻ của các chuyên gia <a href="http://phongkhamthaiha.com/huong-dan-va-chi-phi/"><strong>phòng khám đa&nbsp;khoa Thái Hà</strong></a> về <em><u><strong>bệnh mồng gà ở đường miệng nguyên do dấu hiệu và phương pháp trị</strong></u></em>. Mọi quan tâm nào khác cần phải giải đáp, xin vui lòng gọi điện đến bác sĩ cơ sở y tế bằng biện pháp nhấp chuột vào nút &ldquo;Bác sĩ tư vấn&rdquo; bài viết này.</p>
+<p style="text-align:justify">Trên đây là những chia sẻ của các chuyên gia phòng khám đa khoa Thái Hà</strong>về <em><u><strong>bệnh mồng gà ở đường miệng nguyên do dấu hiệu và phương pháp trị</strong></u></em>. Mọi quan tâm nào khác cần phải giải đáp, xin vui lòng gọi điện đến bác sĩ cơ sở y tế bằng biện pháp nhấp chuột vào nút &ldquo;Bác sĩ tư vấn&rdquo; bài viết này.</p>
